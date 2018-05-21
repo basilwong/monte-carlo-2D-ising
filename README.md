@@ -18,5 +18,4 @@ N - controls the size of the NxN matrix of cells
 
 plot_flag - 1 to have the script plot the cell matrix evolution in real time
 
-
-
+![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/real-time-ising.PNG)
