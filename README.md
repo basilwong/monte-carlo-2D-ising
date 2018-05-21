@@ -24,5 +24,13 @@ plot_flag - 1 to have the script plot the cell matrix evolution in real time
 
 ![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/real-time-ising.PNG)
 
-## th
-For the coupling J = 1 and temperature T = 3 plot the total energy of generated configurations as function of time, and determine the approximate time when thermalization occurs. For this function to work it is required that the ising2D function returns lists of the energies and the magnetization instead of just the averages at the end.
+## tempChange and T_C_investigation
+
+These scripts graph the energy, magnetization, heat capacity, and magnteic susceptibility as temperature changes. The difference between them is that T_C_investigation.m focuses more on the range around the critical temperature. 
+
+## Thermalization
+
+The thermalization time is how long it takes for the algorithm to reach an equilibrium. 
+
+thermalization_relationship plots the thermalization time of the simulated ising models as the value of N is increased. This script is dependant on the thermalization.m script. 
+
