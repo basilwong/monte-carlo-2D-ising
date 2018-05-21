@@ -11,9 +11,11 @@ The ising2D.m uses the Monte Carlo algorithm to simulate the behaviour of a Gene
 it will show the real time change of the cell matrix over time. 
 
 J - relative coupling between cells
+
 T - relative temperature of the environment
+
 N - controls the size of the NxN matrix of cells
+
 plot_flag - 1 to have the script plot the cell matrix evolution in real time
 
-
-
+![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/real-time-ising.PNG)
