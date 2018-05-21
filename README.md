@@ -1,2 +1,2 @@
-# monte-carlo-2D-ising
-Simulating the two-dimensional Ising model using the Metropolis-Hastings algorithm.
+# Monte Carlo Simulation of the 2D Ising model
+
