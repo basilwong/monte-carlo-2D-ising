@@ -1,4 +1,5 @@
 
+
 # Monte Carlo Simulation of the 2D Ising model
 
 ## Summary
@@ -12,7 +13,9 @@ The ising2D.m uses the Monte Carlo algorithm to simulate the behaviour of a Gene
 it will show the real time change of the cell matrix over time. 
 
 T = Temperature
+
 N = linear lattice size
+
 J = Ising coupling.
 
 plot_flag - 1 to have the script plot the cell matrix evolution in real time
