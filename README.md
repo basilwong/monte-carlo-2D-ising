@@ -16,7 +16,7 @@ T = Temperature
 
 N = linear lattice size
 
-J = Ising coupling.
+J = Ising coupling
 
 plot_flag - 1 to have the script plot the cell matrix evolution in real time
 
