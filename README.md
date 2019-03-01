@@ -34,3 +34,7 @@ The thermalization time is how long it takes for the algorithm to reach an equil
 
 thermalization_relationship plots the thermalization time of the simulated ising models as the value of N is increased. This script is dependant on the thermalization.m script. 
 
+### Calculation for initial model energy:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=E=mc^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=mc^2" title="E=mc^2" /></a>
+
