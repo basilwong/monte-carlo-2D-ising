@@ -36,5 +36,20 @@ thermalization_relationship plots the thermalization time of the simulated ising
 
 ### Calculation for initial model energy:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=E=mc^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=mc^2" title="E=mc^2" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=E_m&space;=&space;-J\sigma_m\sum_n{\sigma_n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E_m&space;=&space;-J\sigma_m\sum_n{\sigma_n}" title="E_m = -J\sigma_m\sum_n{\sigma_n}" /></a>
+
+### Optimization for Metropolis Algorithm
+
+Predetermined all the possible probabilities for the Metropolis algorithm. This way the code does not have to execute the relatively taxing ‘exp’ function every iteration.
+
+![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/metropolis-optimization.JPG)
+
+### Equation for calculating magnetic susceptibility: 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=X&space;=&space;\frac{<M^2>&space;-&space;<M>^2}{T}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?X&space;=&space;\frac{<M^2>&space;-&space;<M>^2}{T}" title="X = \frac{<M^2> - <M>^2}{T}" /></a>
+
+### Equation for calculating heat capacity
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=C_V&space;=&space;\frac{<E^2>&space;-&space;<E>^2}{T^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_V&space;=&space;\frac{<E^2>&space;-&space;<E>^2}{T^2}" title="C_V = \frac{<E^2> - <E>^2}{T^2}" /></a>
+
 
