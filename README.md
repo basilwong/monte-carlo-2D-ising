@@ -41,7 +41,7 @@ thermalization_relationship plots the thermalization time of the simulated ising
 
 Predetermined all the possible probabilities for the Metropolis algorithm. This way the code does not have to execute the relatively taxing ‘exp’ function every iteration.
 
-![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/metropolis-optimization.JPG)
+![alt text](https://raw.githubusercontent.com/basilwong/monte-carlo-2D-ising/master/figures/metropolis_optimization.JPG)
 
 ### Equation for calculating magnetic susceptibility: 
 
