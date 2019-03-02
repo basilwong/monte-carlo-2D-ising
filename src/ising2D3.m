@@ -27,7 +27,7 @@ case3=1; % e^0
 case4=exp(4/T);
 case5=exp(8/T);
 %%  Metropolis algorithm
-for i=1:t,
+for i=1:t
     x=trials1(i); 
     y=trials2(i);
     if x~=1; left=grid(y,x-1);else left=grid(y,N);end
