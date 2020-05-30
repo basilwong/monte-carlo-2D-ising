@@ -4,7 +4,7 @@
 
 ## Summary
 
-Explores the properties of the generalized Ising Model in 2 dimensions. The spins are arranged in a square lattice and interact with the nearest neighbours only. Periodic boundardary conditions are imposed in both directions. Video demo of 2d ising visualization for monte carlo algorithm applied over time [here](https://basilwong.github.io/portfolio/).
+Explores the properties of the generalized Ising Model in 2 dimensions. The spins are arranged in a square lattice and interact with the nearest neighbours only. Periodic boundardary conditions are imposed in both directions. Video demo of 2d ising visualization for monte carlo algorithm applied over time [here](https://basilwong.github.io/portfolio/997-2d-ising-simulation-visualization/).
 
 ## ising2D Function Input Variables
 
